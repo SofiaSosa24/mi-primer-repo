@@ -11,4 +11,4 @@
 
 #Qué es un Markdown
 
-Es un lenguaje (estándar en GutHub) de texto plano eficiente para la creación de documentos, textos o READMEs en los repositorios de GitHub
+Es un lenguaje (estándar en GitHub) de texto plano eficiente para la creación de documentos, textos o READMEs en los repositorios de GitHub
